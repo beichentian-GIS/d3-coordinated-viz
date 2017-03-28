@@ -5,8 +5,8 @@ window.onload=setMap();
 function setMap(){
 	
 	//map frame dimensions
-	var width=960,
-		height=460;
+	var width=1060,
+		height=560;
 		
 	//create new svg container for the map
 	var map=d3.select("body")
@@ -15,12 +15,10 @@ function setMap(){
 		.attr("width",width)
 		.attr("height",height);
 		
-	//create Albers equal area conic projection centered on France
-	var projection=d3.geoAlbers()
-		.center([0,46.2])
-		.rotate([-2,0])
-		.parallels([43,62])
-		.scale(2500)
+	//create Robinson projection 
+	var projection=d3.geoRobinson()
+		.scale(168)
+		.precision(.1)
 		.translate([width/2,height/2]);
 	
 	var path=d3.geoPath()
@@ -28,15 +26,14 @@ function setMap(){
 	
 	//use d3.queue to parallelize asynchronous data loading
 	d3.queue()
-		.defer(d3.csv,"data/unitsData.csv") //load attributes from csv
-		.defer(d3.json,"data/EuropeCountries.topojson") //load background spatial data
-		.defer(d3.json,"data/FranceRegions.topojson") //load choropleth spatial data
+		.defer(d3.csv,"data/csvData.csv") //load attributes from csv
+		.defer(d3.json,"data/WorldCountries.topojson") //load choropleth spatial data
 		.await(callback);
 		
-	function callback(error, csvData, europe, france){
+	function callback(error, csvData, world){
 		//create graticule generator
 		var graticule=d3.geoGraticule()
-			.step([5,5]); //place graticule lines every 5 degrees of longitude and latitude
+			.step([21,21]); //place graticule lines every 5 degrees of longitude and latitude
 		
 		//create graticule background
 		var gratBackground=map.append("path")
@@ -52,30 +49,17 @@ function setMap(){
 			.attr("class","gratLines") //assign class for styling
 			.attr("d",path); //project graticule lines
 		
-		//translate europe TopoJSON
-		var europeCountries=topojson.feature(europe,europe.objects.EuropeCountries),
-			franceRegions=topojson.feature(france,france.objects.FranceRegions).features;
+		//translate world countries TopoJSON
+		var worldCountries=topojson.feature(world,world.objects.WorldCountries).features;
 		
-		//add Europe countries to map
-		var countries=map.append("path")
-			.datum(europeCountries)
-			.attr("class","countries")
-			.attr("d",path);
-			
-		//add France regions to map
-		var regions=map.selectAll(".regions")
-			.data(franceRegions)
+		//add world countries to map
+		var countries=map.selectAll(".countries")
+			.data(worldCountries)
 			.enter()
 			.append("path")
 			.attr("class",function(d){
-				return "regions"+d.properties.adm1_code;
+				return "countries"+d.properties.ADM0_A3;
 			})
 			.attr("d",path);
-		
-		//examine the results
-		//console.log(error);
-		//console.log(csvData);
-		//console.log(europe);
-		//console.log(france);
 	};
 };
