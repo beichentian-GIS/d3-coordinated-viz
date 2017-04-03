@@ -1,6 +1,8 @@
 .countries{
-	stroke:white;
-	stroke-width:1px;
+	fill:#FFF;
+	stroke:#CCC;
+	stroke-width:0.3px;
+	stroke-linecap: round;
 }
 
 .gratBackground{
@@ -10,9 +12,60 @@
 .gratLines{
 	fill:none;
 	stroke:#999;
-	stroke-width:0.5px
+	stroke-width:1px;
 }
 
 .map{
-	border:medium solid #999;
+	/*border:medium solid #999;*/
+	/*margin:10px 0 0 890px;*/
+	margin-top:10px;
+	margin-left:750px;
+	position:absolute;
 }
+
+.chartTitle{
+	font-family:sans-serif;
+	font-size:1.5em;
+	font-weight:bold;
+}
+
+.chart{
+	float:right;
+	/*margin:10px 45px 0 0;*/
+	margin-top:600px;
+	margin-left:750px;
+	position: absolute;
+}
+
+.chartBackground{
+	fill:rgba(255,255,255,0.2);
+}
+
+.chartFrame{
+	fill:none;
+	/*stroke:#999;*/
+	/*stroke-width:3px;*/
+	shape-rendering:crispEdges;
+}
+
+.numbers{
+	fill:white;
+	font-family:sans-serif;
+}
+
+.axis path,
+.axis line{
+	fill:none;
+	stroke:#999;
+	stroke-width:1px;
+	shape-rendering:crispEdges;
+}
+
+.axis text{
+	font-family:sans-serif;
+	font-size:0.8em;
+	fill:#999;
+}
+
+
+
