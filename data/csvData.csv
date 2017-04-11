@@ -1,265 +1,265 @@
-ADMIN,ADM0_A3,POP,ADO,LE,UEM,PAR
-Aruba,ABW,52,21,78,,
-Andorra,AND,,,,,32
-Afghanistan,AFG,48,71,62,14,28
-Angola,AGO,50,162,54,7,37
-Albania,ALB,50,22,80,15,23
-Arab World,ARB,48,48,73,21,19
-United Arab Emirates,ARE,27,30,78,9,23
-Argentina,ARG,51,64,80,10,36
-Armenia,ARM,54,22,79,19,11
+ADMIN,ADM0_A3,Percentage of Female Population,Proportion of National Parliaments Seats Held by Women,Life Expectancy at Birth (Female),Adolescent Fertility Rate,Female Unemployment Rate
+Aruba,ABW,52,,78,21,
+Andorra,AND,,32,,,
+Afghanistan,AFG,48,28,62,71,14
+Angola,AGO,50,37,54,162,7
+Albania,ALB,50,23,80,22,15
+Arab World,ARB,48,19,73,48,21
+United Arab Emirates,ARE,27,23,78,30,9
+Argentina,ARG,51,36,80,64,10
+Armenia,ARM,54,11,79,22,19
 American Samoa,ASM,,,,,
-Antigua and Barbuda,ATG,52,44,78,,11
-Australia,AUS,50,14,84,6,29
-Austria,AUT,51,7,84,5,31
-Azerbaijan,AZE,50,61,74,6,17
-Burundi,BDI,51,28,59,8,36
-Belgium,BEL,51,8,83,8,39
-Benin,BEN,50,82,61,1,7
-Burkina Faso,BFA,50,107,60,2,9
-Bangladesh,BGD,50,83,73,5,20
-Bulgaria,BGR,51,37,79,11,20
-Bahrain,BHR,38,13,78,7,8
-"Bahamas, The",BHS,51,29,78,16,13
-Bosnia and Herzegovina,BIH,50,8,79,30,21
-Belarus,BLR,54,18,78,4,35
-Belize,BLZ,50,65,73,20,3
+Antigua and Barbuda,ATG,52,11,78,44,
+Australia,AUS,50,29,84,14,6
+Austria,AUT,51,31,84,7,5
+Azerbaijan,AZE,50,17,74,61,6
+Burundi,BDI,51,36,59,28,8
+Belgium,BEL,51,39,83,8,8
+Benin,BEN,50,7,61,82,1
+Burkina Faso,BFA,50,9,60,107,2
+Bangladesh,BGD,50,20,73,83,5
+Bulgaria,BGR,51,20,79,37,11
+Bahrain,BHR,38,8,78,13,7
+"Bahamas, The",BHS,51,13,78,29,16
+Bosnia and Herzegovina,BIH,50,21,79,8,30
+Belarus,BLR,54,35,78,18,4
+Belize,BLZ,50,3,73,65,20
 Bermuda,BMU,,,85,,
-Bolivia,BOL,50,70,71,3,53
-Brazil,BRA,51,67,78,9,10
-Barbados,BRB,52,39,78,14,17
-Brunei Darussalam,BRN,48,21,81,4,7
-Bhutan,BTN,46,20,70,3,9
-Botswana,BWA,50,31,67,22,10
-Central African Republic,CAF,51,91,53,8,7
-Canada,CAN,50,9,84,7,26
-Central Europe and the Baltics,CEB,52,19,80,9,20
-Switzerland,CHE,50,3,85,5,32
-Channel Islands,CHI,50,7,83,,
-Chile,CHL,51,48,84,7,16
-China,CHN,48,7,77,4,24
-Cote d'Ivoire,CIV,49,136,52,4,9
-Cameroon,CMR,50,102,57,5,31
-"Congo, Rep.",COG,50,116,64,7,7
-Colombia,COL,51,49,78,13,20
-Comoros,COM,50,67,65,7,3
-Cabo Verde,CPV,51,73,75,11,24
-Costa Rica,CRI,50,56,82,11,33
-Caribbean small states,CSS,50,56,76,14,20
-Cuba,CUB,50,45,81,4,49
-Curacao,CUW,54,34,81,,
+Bolivia,BOL,50,53,71,70,3
+Brazil,BRA,51,10,78,67,9
+Barbados,BRB,52,17,78,39,14
+Brunei Darussalam,BRN,48,7,81,21,4
+Bhutan,BTN,46,9,70,20,3
+Botswana,BWA,50,10,67,31,22
+Central African Republic,CAF,51,7,53,91,8
+Canada,CAN,50,26,84,9,7
+Central Europe and the Baltics,CEB,52,20,80,19,9
+Switzerland,CHE,50,32,85,3,5
+Channel Islands,CHI,50,,83,7,
+Chile,CHL,51,16,84,48,7
+China,CHN,48,24,77,7,4
+Cote d'Ivoire,CIV,49,9,52,136,4
+Cameroon,CMR,50,31,57,102,5
+"Congo, Rep.",COG,50,7,64,116,7
+Colombia,COL,51,20,78,49,13
+Comoros,COM,50,3,65,67,7
+Cabo Verde,CPV,51,24,75,73,11
+Costa Rica,CRI,50,33,82,56,11
+Caribbean small states,CSS,50,20,76,56,14
+Cuba,CUB,50,49,81,45,4
+Curacao,CUW,54,,81,34,
 Cayman Islands,CYM,,,,,
-Cyprus,CYP,49,5,82,15,18
-Czech Republic,CZE,51,10,81,8,20
-Germany,DEU,51,6,83,5,37
-Djibouti,DJI,50,21,64,,13
-Dominica,DMA,,,,,22
-Denmark,DNK,50,4,83,7,37
-Dominican Republic,DOM,50,97,77,23,27
-Algeria,DZA,50,10,77,17,32
-East Asia & Pacific (excluding high income),EAP,49,23,76,4,20
-Early-demographic dividend,EAR,49,40,71,7,22
-East Asia & Pacific,EAS,49,22,77,4,19
-Europe & Central Asia (excluding high income),ECA,52,26,76,7,19
-Europe & Central Asia,ECS,52,17,80,9,26
-Ecuador,ECU,50,76,79,6,42
-"Egypt, Arab Rep.",EGY,49,51,73,28,15
-Euro area,EMU,51,8,84,12,30
-Eritrea,ERI,,53,66,8,22
-Spain,ESP,51,8,86,26,39
-Estonia,EST,53,12,82,7,24
-Ethiopia,ETH,50,57,66,8,39
-European Union,EUU,51,10,83,10,28
-Fragile and conflict affected situations,FCS,50,84,63,9,16
-Finland,FIN,51,6,84,8,42
-Fiji,FJI,49,45,73,11,16
-France,FRA,51,9,86,10,26
+Cyprus,CYP,49,18,82,5,15
+Czech Republic,CZE,51,20,81,10,8
+Germany,DEU,51,37,83,6,5
+Djibouti,DJI,50,13,64,21,
+Dominica,DMA,,22,,,
+Denmark,DNK,50,37,83,4,7
+Dominican Republic,DOM,50,27,77,97,23
+Algeria,DZA,50,32,77,10,17
+East Asia & Pacific (excluding high income),EAP,49,20,76,23,4
+Early-demographic dividend,EAR,49,22,71,40,7
+East Asia & Pacific,EAS,49,19,77,22,4
+Europe & Central Asia (excluding high income),ECA,52,19,76,26,7
+Europe & Central Asia,ECS,52,26,80,17,9
+Ecuador,ECU,50,42,79,76,6
+"Egypt, Arab Rep.",EGY,49,15,73,51,28
+Euro area,EMU,51,30,84,8,12
+Eritrea,ERI,,22,66,53,8
+Spain,ESP,51,39,86,8,26
+Estonia,EST,53,24,82,12,7
+Ethiopia,ETH,50,39,66,57,8
+European Union,EUU,51,28,83,10,10
+Fragile and conflict affected situations,FCS,50,16,63,84,9
+Finland,FIN,51,42,84,6,8
+Fiji,FJI,49,16,73,45,11
+France,FRA,51,26,86,9,10
 Faroe Islands,FRO,,,84,,
-"Micronesia, Fed. Sts.",FSM,49,14,70,,0
-Gabon,GAB,49,98,65,26,14
-United Kingdom,GBR,51,14,83,6,30
-Georgia,GEO,52,38,78,12,
-Ghana,GHA,50,66,62,2,11
+"Micronesia, Fed. Sts.",FSM,49,0,70,14,
+Gabon,GAB,49,14,65,98,26
+United Kingdom,GBR,51,30,83,14,6
+Georgia,GEO,52,,78,38,12
+Ghana,GHA,50,11,62,66,2
 Gibraltar,GIB,,,,,
-Guinea,GIN,50,140,59,2,22
-"Gambia, The",GMB,50,112,62,7,9
-Guinea-Bissau,GNB,50,88,57,7,14
-Equatorial Guinea,GNQ,49,108,59,8,24
-Greece,GRC,51,7,84,31,20
-Grenada,GRD,50,30,76,,33
+Guinea,GIN,50,22,59,140,2
+"Gambia, The",GMB,50,9,62,112,7
+Guinea-Bissau,GNB,50,14,57,88,7
+Equatorial Guinea,GNQ,49,24,59,108,8
+Greece,GRC,51,20,84,7,31
+Grenada,GRD,50,33,76,30,
 Greenland,GRL,,,,,
-Guatemala,GTM,51,80,75,3,14
-Guam,GUM,49,48,82,,
-Guyana,GUY,50,88,69,14,30
-High income,HIC,50,13,83,8,26
-"Hong Kong SAR, China",HKG,53,3,87,3,
-Honduras,HND,50,64,76,5,26
-Heavily indebted poor countries (HIPC),HPC,50,98,62,8,24
-Croatia,HRV,52,9,80,17,13
-Haiti,HTI,51,39,65,8,0
-Hungary,HUN,52,18,79,8,10
-IBRD only,IBD,49,32,74,6,22
-IDA & IBRD total,IBT,49,48,72,6,21
-IDA total,IDA,50,80,65,7,21
-IDA blend,IDB,49,67,65,6,21
-Indonesia,IDN,50,49,71,7,17
-IDA only,IDX,50,87,65,7,21
+Guatemala,GTM,51,14,75,80,3
+Guam,GUM,49,,82,48,
+Guyana,GUY,50,30,69,88,14
+High income,HIC,50,26,83,13,8
+"Hong Kong SAR, China",HKG,53,,87,3,3
+Honduras,HND,50,26,76,64,5
+Heavily indebted poor countries (HIPC),HPC,50,24,62,98,8
+Croatia,HRV,52,13,80,9,17
+Haiti,HTI,51,0,65,39,8
+Hungary,HUN,52,10,79,18,8
+IBRD only,IBD,49,22,74,32,6
+IDA & IBRD total,IBT,49,21,72,48,6
+IDA total,IDA,50,21,65,80,7
+IDA blend,IDB,49,21,65,67,6
+Indonesia,IDN,50,17,71,49,7
+IDA only,IDX,50,21,65,87,7
 Isle of Man,IMN,,,,,
-India,IND,48,23,69,4,12
+India,IND,48,12,69,23,4
 Not classified,INX,,,,,
-Ireland,IRL,50,10,83,10,22
-"Iran, Islamic Rep.",IRN,50,26,77,20,6
-Iraq,IRQ,49,85,72,24,27
-Iceland,ISL,50,6,84,5,48
-Israel,ISR,50,9,84,6,27
-Italy,ITA,51,6,85,14,31
-Jamaica,JAM,50,59,78,17,18
-Jordan,JOR,49,23,76,20,15
-Japan,JPN,51,4,87,3,10
-Kazakhstan,KAZ,52,27,76,5,27
-Kenya,KEN,50,90,63,11,20
-Kyrgyz Republic,KGZ,51,39,75,9,19
-Cambodia,KHM,51,52,70,0,20
-Kiribati,KIR,51,16,69,,7
-St. Kitts and Nevis,KNA,,,,,13
-"Korea, Rep.",KOR,50,2,85,3,17
+Ireland,IRL,50,22,83,10,10
+"Iran, Islamic Rep.",IRN,50,6,77,26,20
+Iraq,IRQ,49,27,72,85,24
+Iceland,ISL,50,48,84,6,5
+Israel,ISR,50,27,84,9,6
+Italy,ITA,51,31,85,6,14
+Jamaica,JAM,50,18,78,59,17
+Jordan,JOR,49,15,76,23,20
+Japan,JPN,51,10,87,4,3
+Kazakhstan,KAZ,52,27,76,27,5
+Kenya,KEN,50,20,63,90,11
+Kyrgyz Republic,KGZ,51,19,75,39,9
+Cambodia,KHM,51,20,70,52,0
+Kiribati,KIR,51,7,69,16,
+St. Kitts and Nevis,KNA,,13,,,
+"Korea, Rep.",KOR,50,17,85,2,3
 Kosovo,KSV,48,,73,,
-Kuwait,KWT,44,9,76,2,2
-Latin America & Caribbean (excluding high income),LAC,51,64,78,8,30
-Lao PDR,LAO,50,64,68,1,28
-Lebanon,LBN,50,12,81,11,3
-Liberia,LBR,50,107,62,4,11
-Libya,LBY,50,6,75,28,16
-St. Lucia,LCA,51,53,78,,17
-Latin America & Caribbean,LCN,51,64,78,8,29
-Least developed countries: UN classification,LDC,50,90,65,7,23
-Low income,LIC,50,96,63,7,24
-Liechtenstein,LIE,,,84,,20
-Sri Lanka,LKA,52,14,78,7,6
-Lower middle income,LMC,49,45,69,6,18
-Low & middle income,LMY,49,48,72,6,22
-Lesotho,LSO,51,93,50,32,25
-Late-demographic dividend,LTE,49,22,78,5,20
-Lithuania,LTU,54,10,80,10,21
-Luxembourg,LUX,50,6,84,7,28
-Latvia,LVA,54,13,79,9,18
-"Macao SAR, China",MAC,52,3,83,1,
+Kuwait,KWT,44,2,76,9,2
+Latin America & Caribbean (excluding high income),LAC,51,30,78,64,8
+Lao PDR,LAO,50,28,68,64,1
+Lebanon,LBN,50,3,81,12,11
+Liberia,LBR,50,11,62,107,4
+Libya,LBY,50,16,75,6,28
+St. Lucia,LCA,51,17,78,53,
+Latin America & Caribbean,LCN,51,29,78,64,8
+Least developed countries: UN classification,LDC,50,23,65,90,7
+Low income,LIC,50,24,63,96,7
+Liechtenstein,LIE,,20,84,,
+Sri Lanka,LKA,52,6,78,14,7
+Lower middle income,LMC,49,18,69,45,6
+Low & middle income,LMY,49,22,72,48,6
+Lesotho,LSO,51,25,50,93,32
+Late-demographic dividend,LTE,49,20,78,22,5
+Lithuania,LTU,54,21,80,10,10
+Luxembourg,LUX,50,28,84,6,7
+Latvia,LVA,54,18,79,13,9
+"Macao SAR, China",MAC,52,,83,3,1
 St. Martin (French part),MAF,,,83,,
-Morocco,MAR,51,31,75,11,21
-Monaco,MCO,,,,,21
-Moldova,MDA,52,22,76,3,22
-Madagascar,MDG,50,115,67,5,21
-Maldives,MDV,50,6,78,18,6
-Middle East & North Africa,MEA,48,38,75,20,17
-Mexico,MEX,50,62,79,5,42
-Marshall Islands,MHL,,,,,9
-Middle income,MIC,49,40,73,6,21
-"Macedonia, FYR",MKD,50,17,78,28,33
-Mali,MLI,50,174,58,11,9
-Malta,MLT,50,16,84,6,13
-Myanmar,MMR,51,16,68,4,10
-Middle East & North Africa (excluding high income),MNA,50,42,74,23,18
-Montenegro,MNE,51,12,78,20,24
-Mongolia,MNG,51,15,74,5,17
+Morocco,MAR,51,21,75,31,11
+Monaco,MCO,,21,,,
+Moldova,MDA,52,22,76,22,3
+Madagascar,MDG,50,21,67,115,5
+Maldives,MDV,50,6,78,6,18
+Middle East & North Africa,MEA,48,17,75,38,20
+Mexico,MEX,50,42,79,62,5
+Marshall Islands,MHL,,9,,,
+Middle income,MIC,49,21,73,40,6
+"Macedonia, FYR",MKD,50,33,78,17,28
+Mali,MLI,50,9,58,174,11
+Malta,MLT,50,13,84,16,6
+Myanmar,MMR,51,10,68,16,4
+Middle East & North Africa (excluding high income),MNA,50,18,74,42,23
+Montenegro,MNE,51,24,78,12,20
+Mongolia,MNG,51,17,74,15,5
 Northern Mariana Islands,MNP,,,,,
-Mozambique,MOZ,51,137,57,25,40
-Mauritania,MRT,50,78,65,30,25
-Mauritius,MUS,51,28,78,12,12
-Malawi,MWI,50,135,64,9,17
-Malaysia,MYS,48,14,77,2,10
-North America,NAC,50,20,82,6,22
-Namibia,NAM,51,76,67,20,41
-New Caledonia,NCL,50,19,81,,
-Niger,NER,50,201,62,5,15
-Nigeria,NGA,49,109,53,7,6
-Nicaragua,NIC,51,88,78,5,41
-Netherlands,NLD,50,4,83,7,37
-Norway,NOR,50,6,84,3,40
-Nepal,NPL,52,71,71,3,30
-Nauru,NRU,,,,,5
-New Zealand,NZL,51,23,83,6,31
-OECD members,OED,51,22,83,7,28
-Oman,OMN,34,8,79,14,1
-Other small states,OSS,48,61,68,15,19
-Pakistan,PAK,49,38,67,9,21
-Panama,PAN,50,74,81,6,18
-Peru,PER,50,48,77,5,28
-Philippines,PHL,50,63,72,7,30
-Palau,PLW,,,,,0
-Papua New Guinea,PNG,49,54,65,3,3
-Poland,POL,52,13,81,10,27
-Pre-demographic dividend,PRE,50,110,60,8,22
-Puerto Rico,PRI,52,41,83,12,
-"Korea, Dem. People’s Rep.",PRK,51,1,74,3,16
-Portugal,PRT,53,9,84,14,35
-Paraguay,PRY,49,57,75,6,15
-Pacific island small states,PSS,49,39,72,,6
-Post-demographic dividend,PST,51,13,83,7,29
-French Polynesia,PYF,49,36,79,,
-Qatar,QAT,27,10,80,2,0
-Romania,ROU,52,34,79,6,14
-Russian Federation,RUS,54,23,76,5,13
-Rwanda,RWA,52,26,67,0,64
-South Asia,SAS,48,33,70,5,19
-Saudi Arabia,SAU,43,8,76,20,20
-Sudan,SDN,50,72,65,22,31
-Senegal,SEN,51,77,68,13,43
-Singapore,SGP,51,4,85,3,24
-Solomon Islands,SLB,49,47,69,4,2
-Sierra Leone,SLE,51,117,51,2,12
-El Salvador,SLV,53,65,77,4,32
-San Marino,SMR,,,,,17
-Somalia,SOM,50,103,57,8,14
-Serbia,SRB,51,19,78,26,34
-Sub-Saharan Africa (excluding high income),SSA,50,100,60,9,24
-South Sudan,SSD,50,63,57,,29
-Sub-Saharan Africa,SSF,50,100,60,9,23
-Small states,SST,48,59,69,14,17
-Sao Tome and Principe,STP,50,83,68,,18
-Suriname,SUR,50,46,74,9,26
-Slovak Republic,SVK,52,20,80,14,20
-Slovenia,SVN,50,4,84,10,37
-Sweden,SWE,50,6,84,8,44
-Swaziland,SWZ,51,67,48,26,6
+Mozambique,MOZ,51,40,57,137,25
+Mauritania,MRT,50,25,65,78,30
+Mauritius,MUS,51,12,78,28,12
+Malawi,MWI,50,17,64,135,9
+Malaysia,MYS,48,10,77,14,2
+North America,NAC,50,22,82,20,6
+Namibia,NAM,51,41,67,76,20
+New Caledonia,NCL,50,,81,19,
+Niger,NER,50,15,62,201,5
+Nigeria,NGA,49,6,53,109,7
+Nicaragua,NIC,51,41,78,88,5
+Netherlands,NLD,50,37,83,4,7
+Norway,NOR,50,40,84,6,3
+Nepal,NPL,52,30,71,71,3
+Nauru,NRU,,5,,,
+New Zealand,NZL,51,31,83,23,6
+OECD members,OED,51,28,83,22,7
+Oman,OMN,34,1,79,8,14
+Other small states,OSS,48,19,68,61,15
+Pakistan,PAK,49,21,67,38,9
+Panama,PAN,50,18,81,74,6
+Peru,PER,50,28,77,48,5
+Philippines,PHL,50,30,72,63,7
+Palau,PLW,,0,,,
+Papua New Guinea,PNG,49,3,65,54,3
+Poland,POL,52,27,81,13,10
+Pre-demographic dividend,PRE,50,22,60,110,8
+Puerto Rico,PRI,52,,83,41,12
+"Korea, Dem. People’s Rep.",PRK,51,16,74,1,3
+Portugal,PRT,53,35,84,9,14
+Paraguay,PRY,49,15,75,57,6
+Pacific island small states,PSS,49,6,72,39,
+Post-demographic dividend,PST,51,29,83,13,7
+French Polynesia,PYF,49,,79,36,
+Qatar,QAT,27,0,80,10,2
+Romania,ROU,52,14,79,34,6
+Russian Federation,RUS,54,13,76,23,5
+Rwanda,RWA,52,64,67,26,0
+South Asia,SAS,48,19,70,33,5
+Saudi Arabia,SAU,43,20,76,8,20
+Sudan,SDN,50,31,65,72,22
+Senegal,SEN,51,43,68,77,13
+Singapore,SGP,51,24,85,4,3
+Solomon Islands,SLB,49,2,69,47,4
+Sierra Leone,SLE,51,12,51,117,2
+El Salvador,SLV,53,32,77,65,4
+San Marino,SMR,,17,,,
+Somalia,SOM,50,14,57,103,8
+Serbia,SRB,51,34,78,19,26
+Sub-Saharan Africa (excluding high income),SSA,50,24,60,100,9
+South Sudan,SSD,50,29,57,63,
+Sub-Saharan Africa,SSF,50,23,60,100,9
+Small states,SST,48,17,69,59,14
+Sao Tome and Principe,STP,50,18,68,83,
+Suriname,SUR,50,26,74,46,9
+Slovak Republic,SVK,52,20,80,20,14
+Slovenia,SVN,50,37,84,4,10
+Sweden,SWE,50,44,84,6,8
+Swaziland,SWZ,51,6,48,67,26
 Sint Maarten (Dutch part),SXM,,,,,
-Seychelles,SYC,49,57,78,,21
-Syrian Arab Republic,SYR,49,39,76,28,13
+Seychelles,SYC,49,21,78,57,
+Syrian Arab Republic,SYR,49,13,76,39,28
 Turks and Caicos Islands,TCA,,,,,
-Chad,TCD,50,130,53,8,15
-East Asia & Pacific (IDA & IBRD countries),TEA,49,23,76,4,20
-Europe & Central Asia (IDA & IBRD countries),TEC,52,25,77,8,19
-Togo,TGO,51,92,60,7,18
-Thailand,THA,51,45,78,1,6
-Tajikistan,TJK,49,38,73,10,19
-Turkmenistan,TKM,51,16,70,11,26
-Latin America & the Caribbean (IDA & IBRD countries),TLA,51,64,78,8,25
-Middle East & North Africa (IDA & IBRD countries),TMN,50,42,74,23,18
-Timor-Leste,TLS,49,45,70,7,39
-Tonga,TON,50,15,76,,0
-South Asia (IDA & IBRD),TSA,48,33,70,5,19
-Sub-Saharan Africa (IDA & IBRD countries),TSS,50,100,60,9,23
-Trinidad and Tobago,TTO,51,31,74,5,31
-Tunisia,TUN,51,7,77,16,31
-Turkey,TUR,51,27,79,11,15
-Tuvalu,TUV,,,,,7
-Tanzania,TZA,50,118,66,4,37
-Uganda,UGA,50,109,60,5,34
-Ukraine,UKR,54,23,76,7,12
-Upper middle income,UMC,50,32,77,6,24
-Uruguay,URY,52,56,81,9,16
-United States,USA,50,21,81,6,19
-Uzbekistan,UZB,51,18,72,11,16
-St. Vincent and the Grenadines,VCT,50,50,75,,13
-"Venezuela, RB",VEN,50,79,78,9,14
+Chad,TCD,50,15,53,130,8
+East Asia & Pacific (IDA & IBRD countries),TEA,49,20,76,23,4
+Europe & Central Asia (IDA & IBRD countries),TEC,52,19,77,25,8
+Togo,TGO,51,18,60,92,7
+Thailand,THA,51,6,78,45,1
+Tajikistan,TJK,49,19,73,38,10
+Turkmenistan,TKM,51,26,70,16,11
+Latin America & the Caribbean (IDA & IBRD countries),TLA,51,25,78,64,8
+Middle East & North Africa (IDA & IBRD countries),TMN,50,18,74,42,23
+Timor-Leste,TLS,49,39,70,45,7
+Tonga,TON,50,0,76,15,
+South Asia (IDA & IBRD),TSA,48,19,70,33,5
+Sub-Saharan Africa (IDA & IBRD countries),TSS,50,23,60,100,9
+Trinidad and Tobago,TTO,51,31,74,31,5
+Tunisia,TUN,51,31,77,7,16
+Turkey,TUR,51,15,79,27,11
+Tuvalu,TUV,,7,,,
+Tanzania,TZA,50,37,66,118,4
+Uganda,UGA,50,34,60,109,5
+Ukraine,UKR,54,12,76,23,7
+Upper middle income,UMC,50,24,77,32,6
+Uruguay,URY,52,16,81,56,9
+United States,USA,50,19,81,21,6
+Uzbekistan,UZB,51,16,72,18,11
+St. Vincent and the Grenadines,VCT,50,13,75,50,
+"Venezuela, RB",VEN,50,14,78,79,9
 British Virgin Islands,VGB,,,,,
-Virgin Islands (U.S.),VIR,52,43,83,,
-Vietnam,VNM,51,39,80,3,27
-Vanuatu,VUT,49,43,74,,0
-West Bank and Gaza,PSE,49,58,75,24,
-World,WLD,50,44,74,6,23
-Samoa,WSM,48,24,77,,10
-"Yemen, Rep.",YEM,49,61,65,39,0
-South Africa,ZAF,51,44,59,28,42
-"Congo, Dem. Rep.",COD,50,122,60,9,9
-Zambia,ZMB,50,88,62,12,18
-Zimbabwe,ZWE,51,109,59,5,32
+Virgin Islands (U.S.),VIR,52,,83,43,
+Vietnam,VNM,51,27,80,39,3
+Vanuatu,VUT,49,0,74,43,
+West Bank and Gaza,PSE,49,,75,58,24
+World,WLD,50,23,74,44,6
+Samoa,WSM,48,10,77,24,
+"Yemen, Rep.",YEM,49,0,65,61,39
+South Africa,ZAF,51,42,59,44,28
+"Congo, Dem. Rep.",COD,50,9,60,122,9
+Zambia,ZMB,50,18,62,88,12
+Zimbabwe,ZWE,51,32,59,109,5
