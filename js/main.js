@@ -378,35 +378,35 @@ function updateChart(squares,n,colorScale){
 	
 	var chartLabel=chartLabels.html(function(d){
 		if (expressed=="Percentage of Female Population"){
-			return minmax[0]+"%"+"<br>"
-			+minmax[1]+"%"+"<br>"
-			+minmax[2]+"%"+"<br>"
-			+minmax[3]+"%"+"<br>"
-			+minmax[4]+"%"+"<br>";
+			return "< "+minmax[0]+"%"+"<br>"
+			+"< "+minmax[1]+"%"+"<br>"
+			+"< "+minmax[2]+"%"+"<br>"
+			+"< "+minmax[3]+"%"+"<br>"
+			+"<= "+minmax[4]+"%"+"<br>";
 		} else if (expressed=="Proportion of National Parliaments Seats Held by Women"){
-			return minmax[0]+"%"+"<br>"
-			+minmax[1]+"%"+"<br>"
-			+minmax[2]+"%"+"<br>"
-			+minmax[3]+"%"+"<br>"
-			+minmax[4]+"%"+"<br>";
+			return "< "+minmax[0]+"%"+"<br>"
+			+"< "+minmax[1]+"%"+"<br>"
+			+"< "+minmax[2]+"%"+"<br>"
+			+"< "+minmax[3]+"%"+"<br>"
+			+"<= "+minmax[4]+"%"+"<br>";
 		} else if (expressed=="Life Expectancy at Birth (Female)"){
-			return minmax[0]+"<br>"
-			+minmax[1]+"<br>"
-			+minmax[2]+"<br>"
-			+minmax[3]+"<br>"
-			+minmax[4]+"<br>";
+			return "< "+minmax[0]+"<br>"
+			+"< "+minmax[1]+"<br>"
+			+"< "+minmax[2]+"<br>"
+			+"< "+minmax[3]+"<br>"
+			+"<= "+minmax[4]+"<br>";
 		} else if (expressed=="Adolescent Fertility Rate"){
-			return minmax[0]/10+"<br>"
-			+minmax[1]/10+"<br>"
-			+minmax[2]/10+"<br>"
-			+minmax[3]/10+"<br>"
-			+minmax[4]/10+"<br>";
+			return "< "+minmax[0]/10+"<br>"
+			+"< "+minmax[1]/10+"<br>"
+			+"< "+minmax[2]/10+"<br>"
+			+"< "+minmax[3]/10+"<br>"
+			+"<= "+minmax[4]/10+"<br>";
 		} else if (expressed=="Female Unemployment Rate"){
-			return minmax[0]+"%"+"<br>"
-			+minmax[1]+"%"+"<br>"
-			+minmax[2]+"%"+"<br>"
-			+minmax[3]+"%"+"<br>"
-			+minmax[4]+"%"+"<br>";
+			return "< "+minmax[0]+"%"+"<br>"
+			+"< "+minmax[1]+"%"+"<br>"
+			+"< "+minmax[2]+"%"+"<br>"
+			+"< "+minmax[3]+"%"+"<br>"
+			+"<= "+minmax[4]+"%"+"<br>";
 		}
 	});
 	
@@ -636,7 +636,7 @@ function metaData(){
 	var metadata=d3.select("body")
 		.append("div")
 		.attr("class","metaData")
-		.html("<strong>Data Source: </strong><a href='http://data.worldbank.org/indicator'>World Bank </a>"+"<strong>© </strong>Beichen Tian 2017"+"<br>"+"Percentage of Female Population (2015), Proportion of National Parliaments Seats Held by Women (2016),"+"<br>"+"Life Expectancy at Birth (Female) (2014), Adolescent Fertility Rate (2015), Female Unemployment Rate (2014)"+"<br>"+"<strong>Classification Method:</strong> Quantile"+"<br>"+"<strong>Note: </strong>better viewed in 20.8in * 17.7in PC screen FireFox browser.")
+		.html("<strong>Data Source: </strong><a href='http://data.worldbank.org/indicator'>World Bank </a>"+"<strong>© </strong>Beichen Tian 2017"+"<br>"+"Percentage of Female Population (2015), Proportion of National Parliaments Seats Held by Women (2016),"+"<br>"+"Life Expectancy at Birth (Female) (2014), Adolescent Fertility Rate (2015), Female Unemployment Rate (2014)"+"<br>"+"<strong>Note: </strong>better viewed in 20.8in * 17.7in PC screen FireFox browser.")
 }
 
 })();
